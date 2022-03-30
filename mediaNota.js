@@ -26,7 +26,7 @@
         resultadoFinal = `O aluno ${aluno } Foi REPROVADO!`
     }
 
-    console.clear() // Limpa a tela
+    console.clear() // Limpa a tela do console
 
     // Apresenta o resultado 
     console.log('===================================')
