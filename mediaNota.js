@@ -15,7 +15,8 @@
 
     // guarda o valor total das notas
     let resultadoFinal = ``
-        // Calcula  a Média das notas
+
+    // Calcula  a Média das notas
     const media = ((nota1b + nota2b + nota3b + nota4b) / 4)
         // se a média for igual ou maior que 7 APROVADO
     if (media >= 7) {
